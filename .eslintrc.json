@@ -25,6 +25,7 @@
 	],
 	"rules": {
 		"indent": ["error", "tab"],
+		"comma-dangle": ["error", "always-multiline"],
 		"operator-linebreak": ["error", "after"],
 		"no-empty": "error",
 		"max-lines": ["error", { "max": 500 }],
